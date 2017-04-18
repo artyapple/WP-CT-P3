@@ -59,42 +59,7 @@ public class TestCases {
 	    frame.turn(1, 1);
 	    Thread.sleep(1000);
 	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    Thread.sleep(TIMEOUT);
-	    
-	    JButton b1 = frame.set;
-
-	    Thread.sleep(TIMEOUT);
-	    JButton b2 = frame.buttonArr[0][0];
-	    b2.doClick();
-	    Thread.sleep(TIMEOUT);
-	    
-	    frame.turn(0, 1);
-
-	    Thread.sleep(TIMEOUT);
-	    frame.turn(0, 1)
-	    b2 = frame.buttonArr[2][2];
-
-	    Thread.sleep(TIMEOUT);
-	    
-	    b1 = frame.buttonArr[1][0];
-
-	    Thread.sleep(TIMEOUT);
-	    b2 = frame.buttonArr[1][1];
-
-	    Thread.sleep(TIMEOUT);
-
-//	    WinState p = board.checkWin();
-//	    WinState.
-//	    Board resultBoard = frame.getBoard();
-	    
-//	    resultBoard.
-//	    assert (1 == resultBoard.get2d(0, 0) && 2 == resultBoard.get2d(0, 1));
+	    frame.
 	}
 
 }
